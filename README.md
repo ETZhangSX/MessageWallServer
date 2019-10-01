@@ -1,6 +1,7 @@
 # MessageWallServer
 大学生活服务平台-表白墙服务，提供表白发布，表白墙留言获取功能
 
+服务接口可查看[接口文档](docs/RPC.md)
 ## 项目结构
 ```sh
 MessageWallServer
